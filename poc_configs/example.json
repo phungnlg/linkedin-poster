@@ -1,0 +1,17 @@
+{
+  "name": "Example POC Project",
+  "github_url": "https://github.com/tranthienhau/example-poc",
+  "description": "A sample POC project demonstrating the linkedin-poster config format. Replace this with your actual project details.",
+  "keywords": [
+    "Python",
+    "CLI",
+    "Automation"
+  ],
+  "screenshots": [],
+  "tech_stack": [
+    "Python",
+    "Typer",
+    "httpx"
+  ],
+  "demo_url": null
+}

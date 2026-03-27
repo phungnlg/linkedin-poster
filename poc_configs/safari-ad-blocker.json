@@ -1,0 +1,29 @@
+{
+  "name": "Safari Ad Blocker",
+  "github_url": "https://github.com/tranthienhau/safari-ad-blocker",
+  "description": "A native iOS Safari Content Blocker built with SwiftUI and Swift 6. Features custom filter rules, App Groups for extension-app communication, MVVM architecture, and full localization via String Catalogs. Includes CI/CD with GitHub Actions, Sentry crash reporting, and TestFlight distribution.",
+  "keywords": [
+    "Safari",
+    "Content Blocker",
+    "iOS",
+    "Swift",
+    "SwiftUI",
+    "App Extension",
+    "MVVM",
+    "GitHub Actions",
+    "CI/CD",
+    "Privacy"
+  ],
+  "screenshots": [],
+  "tech_stack": [
+    "Swift 6",
+    "SwiftUI",
+    "Safari Web Extension",
+    "App Groups",
+    "String Catalog (Localization)",
+    "GitHub Actions",
+    "Sentry",
+    "TestFlight"
+  ],
+  "demo_url": null
+}

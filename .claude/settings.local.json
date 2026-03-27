@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(vercel whoami:*)",
+      "Bash(vercel:*)",
+      "Bash(printf Set LINKEDIN_CLIENT_ID and LINKEDIN_CLIENT_SECRET on Vercel.\\\\nYou need to run these manually with your actual credentials:\\\\n  vercel env add LINKEDIN_CLIENT_ID production\\\\n  vercel env add LINKEDIN_CLIENT_SECRET production\\\\n:*)",
+      "Bash(python:*)",
+      "Bash(python3:*)",
+      "Bash(pip3 install:*)",
+      "Bash(brew list python)",
+      "Bash(curl:*)",
+      "Bash(source:*)",
+      "Bash(lsof:*)",
+      "Bash(printf 86wbj7mf080xvs:*)",
+      "Bash(printf:*)"
+    ]
+  }
+}
